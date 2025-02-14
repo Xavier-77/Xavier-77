@@ -1,4 +1,4 @@
-# I'm Xavier BADO 👋
+# Xavier BADO
 
 I'm an AI and Data Science Engineer. I am passionate about AI models creating, solving problem using Data. I'm consultant in web/mobile development with Flutter, Laravel and Express.js/Node.js.
 
